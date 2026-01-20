@@ -43,8 +43,8 @@ This image showcases how the AI identifies regions of interest within a BR-Scan,
       <td align="center"><b>Image 2: Unhealthy</b></td>
     </tr>
     <tr>
-      <td><img src="path/to/healthy_image.jpg" width="300px" alt="Healthy Scan"/></td>
-      <td><img src="path/to/cancer_image.jpg" width="300px" alt="Unhealthy Scan"/></td>
+      <td><img src="healthy.png" width="300px" alt="Healthy Scan"/></td>
+      <td><img src="unhealthy.png" width="300px" alt="Unhealthy Scan"/></td>
     </tr>
     <tr>
       <td align="center">Confidence: 92.15%</td>
